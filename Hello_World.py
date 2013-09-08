@@ -7,3 +7,4 @@ while x <=5:
     print ''
     x += 1
 
+time.sleep(3)
